@@ -2,6 +2,6 @@
 
 Name of the Instructor: Naman Bhalla
 Students:
-1. Naveen
-2. Asif
-3. Bharath
+1. Naveen Reddy
+2. Asif Iqbal
+3. Bharath Vepanjeri
